@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 | Hey! I'm Svasle!
 
-<!--
-**SvasleBeToastyzz/SvasleBeToastyzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me: 
+This is my Account at School so my main is [@Toastyzz0](https://github.com/Toastyzz0). 
 
-Here are some ideas to get you started:
+You'll learn more about me there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+# Projects:
+* ProjectHype
+* SYSTEM: GameTime
+* literlly nothing else
